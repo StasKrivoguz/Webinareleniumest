@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Webinar Selenium test"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="byte-buddy-1.8.15" value="project"/>
+		<level name="client-combined-3.141.59-sources" value="project"/>
+		<level name="client-combined-3.141.59" value="project"/>
+		<level name="commons-exec-1.3" value="project"/>
+		<level name="guava-25.0-jre" value="project"/>
+		<level name="okhttp-3.11.0" value="project"/>
+		<level name="okio-1.14.0" value="project"/>
+	</levels>
+</component>
